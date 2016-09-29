@@ -1,7 +1,7 @@
 /*
  * This class is written to provide the user with Access token and Instance url to 
  * help user to communicate to Salesforce Rest services. 
- * Licenced under GNU General Public License v3.0.  
+ * Licensed under GNU General Public License v3.0.  
  */
 package com.redhat.test.itsales.influx.publisher.connections;
 
